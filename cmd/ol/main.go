@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/example/observer-loop/internal/watcher"
+	"github.com/baptistax/observer-loop/internal/watcher"
 )
 
 func main() {
